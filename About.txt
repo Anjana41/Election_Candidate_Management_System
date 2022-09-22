@@ -1,0 +1,20 @@
+**Election Candidate Management System**
+
+Technology Stack:  PHP, Laravel, HTML, CSS, MySQL.
+
+Since the 17th century, elections have been the primary method used to carry out representative democracy in modern times.
+Elections may be held to fill legislative, occasionally executive, occasionally judicial, and occasionally regional and municipal positions.
+Numerous other private and commercial organisations, including clubs, non-profit organisations, and corporations, also use this procedure. 
+A formal process of communal decision-making, an election is how a population choose a person or people to hold public office. 
+As much as elections are important, data of the party members is also crucial. A party leader is the one who manages the whole party members during this period. 
+Managing the whole party members at that time is already a big task. Election candidate management software provide the website to manage the data of the party members.
+Software is very easy to use. It provides features to store the data of party members and leader can assign the task to members very easily.
+
+This system tackles data management problem and introduces a website, which is user friendly.
+
+The project aims at developing an election candidate management software. Purpose of this software is to develop a party member data management system. 
+This web application has various features. The admin can add other members through dashboard directly. It includes assigning roles to the members as well. 
+Admin have authority to add state, district, tehsil, samiti, panchayat and village. At the last level of village each member is assigned roles. 
+Like what will be their roles for the upcoming elections. To manage each members data securely.  
+
+Different Features Include: Ajax, Multiselect, Authentication, Encryption, Slug etc.
